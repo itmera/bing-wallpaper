@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-28 | [雪花玻璃球一般的美景 马洛亚，瑞士 (© Roberto Moiola/Getty)](https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) 
+
 2022-12-27 | [治愈身心的“废水” 格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg) 
 
 2022-12-26 | [阖家欢乐的一天 贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)](https://cn.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg) 
