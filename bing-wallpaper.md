@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-29 | [天空之岛 斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) 
+
 2022-12-28 | [雪花玻璃球一般的美景 马洛亚，瑞士 (© Roberto Moiola/Getty)](https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) 
 
 2022-12-27 | [治愈身心的“废水” 格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg) 
