@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-07 | [纺纱杆到底是什么东西？ 羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg) 
+
 2023-01-06 | [“群山拥有抚慰和治愈的力量” 英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg) 
 
 2023-01-05 | [软萌雪中小精灵 白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures)](https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg) 
