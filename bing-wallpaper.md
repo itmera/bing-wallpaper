@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-10 | [当冰块变成了艺术 爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg) 
+
 2023-01-09 | [神奇水牛在哪里？ 南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg) 
 
 2023-01-08 | [我们去哪里玩？ 科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg) 
