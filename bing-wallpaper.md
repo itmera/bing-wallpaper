@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-11 | [到灯塔去！ 戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)](https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg) 
+
 2023-01-10 | [当冰块变成了艺术 爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg) 
 
 2023-01-09 | [神奇水牛在哪里？ 南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg) 
