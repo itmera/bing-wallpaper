@@ -1,4 +1,4 @@
-package com.zzlan.bingwallpaper.utils;
+package com.zzlan.bing.wallpaper.utils;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;

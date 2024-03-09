@@ -2,7 +2,7 @@
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.zzlan.bingwallpaper.utils.HttpClient;
+import com.zzlan.bing.wallpaper.utils.HttpClient;
 
 import java.io.IOException;
 public class GetDataTest {

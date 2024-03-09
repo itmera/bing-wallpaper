@@ -1,12 +1,12 @@
-package com.zzlan.bingwallpaper;
+package com.zzlan.bing.wallpaper;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import com.zzlan.bingwallpaper.model.Image;
-import com.zzlan.bingwallpaper.utils.FreeMarker;
-import com.zzlan.bingwallpaper.utils.HttpClient;
+import com.zzlan.bing.wallpaper.model.Image;
+import com.zzlan.bing.wallpaper.utils.FreeMarker;
+import com.zzlan.bing.wallpaper.utils.HttpClient;
 import freemarker.template.TemplateException;
 
 import java.io.File;

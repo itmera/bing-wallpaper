@@ -46,7 +46,7 @@ jobs:
       - name: Build with Maven
         run: mvn -B package --file pom.xml
       - name: Run Java Application
-        run: java -jar target/bing-wallpaper-new-1.0-SNAPSHOT.jar ${{ github.event.inputs.name }}
+        run: java -jar target/bing-wallpaper-new-jar-with-dependencies.jar ${{ github.event.inputs.name }}
       - name: Commit files
         run: |
           git config --local user.email "8667302@gmail.com"

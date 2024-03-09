@@ -1,4 +1,4 @@
-package com.zzlan.bingwallpaper.model;
+package com.zzlan.bing.wallpaper.model;
 
 import java.time.LocalDate;
 import java.util.Objects;

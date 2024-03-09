@@ -1,4 +1,4 @@
-package com.zzlan.bingwallpaper.utils;
+package com.zzlan.bing.wallpaper.utils;
 
 import java.io.IOException;
 import java.net.URI;
