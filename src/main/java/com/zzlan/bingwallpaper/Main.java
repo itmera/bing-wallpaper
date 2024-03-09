@@ -23,8 +23,10 @@ public class Main {
     private static final String BING_URL = "https://cn.bing.com";
     private static final String BING_API = BING_URL+"/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
     public static void main(String[] args) throws IOException, InterruptedException, TemplateException {
+
         // 更新数据
-        List<Image> images = updateData();
+        Integer day = args.length >= 1 ? Integer.parseInt(args[0]) : 0;
+        List<Image> images = updateData(day);
 
         List<String> monthLink = images.stream().map(Image::getDate).map(date -> date.format(DateTimeFormatter.ofPattern("yyyy-MM")))
                 .distinct()
@@ -83,9 +85,6 @@ public class Main {
                 outputFile = Paths.get("docs/").resolve("index.html").toString();
             }
         }
-        System.out.println(templateFile);
-        System.out.println(outputFile);
-        System.out.println();
         FreeMarker.doGenerate(templateFile,outputFile,modelData);
     }
 
@@ -108,12 +107,12 @@ public class Main {
         return monthMap;
     }
 
-    private static List<Image> updateData() throws IOException, InterruptedException {
+    private static List<Image> updateData(Integer day) throws IOException, InterruptedException {
         ObjectMapper mapper =  new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
         // 读取历史数据
         List<Image> bingList = mapper.readValue(new File("bing-wallpaper.json"), new TypeReference<List<Image>>() {});
-        bingList.add(0,getDate());
+        bingList.add(day,getDate());
         // 去重复
         bingList = bingList.stream().distinct().collect(Collectors.toList());
         // 根据日期进行排序
@@ -128,10 +127,10 @@ public class Main {
         String data = new HttpClient().getData(BING_API);
         ObjectMapper mapper =  new ObjectMapper();
         JsonNode json = mapper.readTree(data);
-        JsonNode image = json.get("images").get(1);
-        System.out.println(image);
-        String startdate = image.get("startdate").asText();
-        LocalDate date = LocalDate.parse(startdate, DateTimeFormatter.ofPattern("yyyyMMdd"));
+        JsonNode image = json.get("images").get(0);
+        String enddate = image.get("enddate").asText();
+        System.out.println(enddate);
+        LocalDate date = LocalDate.parse(enddate, DateTimeFormatter.ofPattern("yyyyMMdd"));
         String url = image.get("url").asText();
         String fullUrl=BING_URL+url.substring(0,url.indexOf("&"));
         String desc = image.get("copyright").asText();

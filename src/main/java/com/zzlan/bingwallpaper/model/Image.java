@@ -1,6 +1,8 @@
 package com.zzlan.bingwallpaper.model;
 
 import java.time.LocalDate;
+import java.util.Objects;
+
 public class Image {
     public Image() {
     }
@@ -37,6 +39,19 @@ public class Image {
         this.date = date;
         this.url = url;
         this.desc = desc;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Image image = (Image) o;
+        return Objects.equals(date, image.date);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(date);
     }
 
     @Override

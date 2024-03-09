@@ -20,7 +20,6 @@ public class HttpClient {
                 .build();
         // 发送请求并获取响应
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-        System.out.println(request.headers());
         return response.body();
     }
 }
