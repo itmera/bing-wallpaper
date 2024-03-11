@@ -13,7 +13,6 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
@@ -51,38 +50,42 @@ public class Main {
 
     private static void doGenerateTOMd(List<Image> images,List<String> monthLink,String fileType,String month) throws IOException, TemplateException {
         HashMap<String, Object> modelData = new HashMap<>();
-        // today 大图
-        HashMap<String, Object> imageOne = new HashMap<>();
+        // 模型数据
         modelData.put("name",month);
+
+        HashMap<String, Object> imageOne = new HashMap<>();
         imageOne.put("url", images.get(0).getUrl());
         imageOne.put("desc", images.get(0).getDesc());
         modelData.put("one",imageOne);
+
         modelData.put("list",images);
         modelData.put("month",monthLink);
-        String templateFile ="README.md.ftl";
-        String outputFile = "README.md";
-
-
+        // 文件路径
+        String templateFile;
+        String outputFile;
+        Path outputPath= Path.of("docs/");
         // 写入模版
-        if (!Objects.equals(month, "")){
-            Path fileDir;
+
+        if (Objects.equals(month, "")) {
             if (Objects.equals(fileType,"html")){
-                fileDir = Paths.get("docs/");
                 templateFile ="index.html.ftl";
-                outputFile = fileDir.resolve(month+".html").toString();
+                outputFile = outputPath.resolve("index.html").toString();
             }else{
-                fileDir = Paths.get("picture/").resolve(month);
                 templateFile ="README.md.ftl";
-                outputFile = fileDir.resolve("README.md").toString();
+                outputFile = "README.md";
+            }
+        } else {
+            if (Objects.equals(fileType,"html")){
+                templateFile ="index.html.ftl";
+                outputFile = outputPath.resolve(month+".html").toString();
+            }else{
+                templateFile ="README.md.ftl";
+                outputPath = Path.of("picture/").resolve(month);
+                outputFile = outputPath.resolve("README.md").toString();
             }
             // 创建目录
-            if (!Files.exists(fileDir)) {
-                Files.createDirectories(fileDir);
-            }
-        }else{
-            if (Objects.equals(fileType,"html")){
-                templateFile ="index.html.ftl";
-                outputFile = Paths.get("docs/").resolve("index.html").toString();
+            if (!Files.exists(outputPath)) {
+                Files.createDirectories(outputPath);
             }
         }
         FreeMarker.doGenerate(templateFile,outputFile,modelData);
