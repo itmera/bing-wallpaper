@@ -27,7 +27,6 @@ public class Main {
         Integer day = args.length >= 1 ? Integer.parseInt(args[0]) : 0;
         List<Image> images = updateData(day);
 
-
         // 按日期循环生成 历史 README.md 存入 picture
         LinkedHashMap<String, List<Image>> monthMap = convertImgListToMonthMap(images);
         Set<String> monthLink = monthMap.keySet();
@@ -111,29 +110,37 @@ public class Main {
         ObjectMapper mapper =  new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
         // 读取历史数据
-        List<Image> bingList = mapper.readValue(new File("bing-wallpaper.json"), new TypeReference<>() {});
-        bingList.add(day,getDate());
+        List<Image> bingList = new ArrayList<>();
+        String bingFile = "bing-wallpaper.json";
+        if ( Files.exists(Path.of(bingFile))){
+            bingList = mapper.readValue(new File(bingFile), new TypeReference<>() {});
+        }
+        bingList.add(0,getDate(day));
         // 去重复
         bingList = bingList.stream().distinct().collect(Collectors.toList());
         // 根据日期进行排序
         bingList.sort((o1, o2) -> o2.getDate().compareTo(o1.getDate()));
         // 写入到json文件
-        mapper.writeValue(new File("bing-wallpaper.json"),bingList);
+        mapper.writeValue(new File(bingFile),bingList);
         return bingList;
 
     }
 
-    private static Image getDate() throws IOException, InterruptedException {
+    private static Image getDate(Integer day) throws IOException, InterruptedException {
         String data = new HttpClient().getData(BING_API);
         ObjectMapper mapper =  new ObjectMapper();
         JsonNode json = mapper.readTree(data);
-        JsonNode image = json.get("images").get(0);
+        JsonNode image = json.get("images").get(day);
+
         String enddate = image.get("enddate").asText();
         System.out.println("new date: "+enddate);
         LocalDate date = LocalDate.parse(enddate, DateTimeFormatter.ofPattern("yyyyMMdd"));
+
         String url = image.get("url").asText();
         String fullUrl=BING_URL+url.substring(0,url.indexOf("&"));
+
         String desc = image.get("copyright").asText();
+
         return new Image(date, fullUrl, desc);
     }
 }
