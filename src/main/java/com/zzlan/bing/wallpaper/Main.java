@@ -27,19 +27,16 @@ public class Main {
         Integer day = args.length >= 1 ? Integer.parseInt(args[0]) : 0;
         List<Image> images = updateData(day);
 
-        List<String> monthLink = images.stream().map(Image::getDate).map(date -> date.format(DateTimeFormatter.ofPattern("yyyy-MM")))
-                .distinct()
-                .collect(Collectors.toList());
-        System.out.println(monthLink);
+
+        // 按日期循环生成 历史 README.md 存入 picture
+        LinkedHashMap<String, List<Image>> monthMap = convertImgListToMonthMap(images);
+        Set<String> monthLink = monthMap.keySet();
         // 生成 README.md
         doGenerateTOMd(images.subList(0,30),monthLink,"md","");
         // 生成 index.html
         doGenerateTOMd(images.subList(0,30),monthLink,"html","");
 
-        // 按日期循环生成 历史 README.md 存入 picture
-        Map<String, List<Image>> monthMap = convertImgListToMonthMap(images);
-        for (String key : monthMap.keySet()) {
-            System.out.println(key);
+        for (String key : monthLink) {
             // 生成月份 README.md
             doGenerateTOMd(monthMap.get(key),monthLink,"md",key);
             // 生成月份 html
@@ -48,7 +45,7 @@ public class Main {
     }
 
 
-    private static void doGenerateTOMd(List<Image> images,List<String> monthLink,String fileType,String month) throws IOException, TemplateException {
+    private static void doGenerateTOMd(List<Image> images,Set<String> monthLink,String fileType,String month) throws IOException, TemplateException {
         HashMap<String, Object> modelData = new HashMap<>();
         // 模型数据
         modelData.put("name",month);
@@ -91,9 +88,9 @@ public class Main {
         FreeMarker.doGenerate(templateFile,outputFile,modelData);
     }
 
-    public static Map<String, List<Image>> convertImgListToMonthMap(List<Image> imagesList) {
+    public static LinkedHashMap<String, List<Image>> convertImgListToMonthMap(List<Image> imagesList) {
 
-        Map<String, List<Image>> monthMap = new LinkedHashMap<>();
+        LinkedHashMap<String, List<Image>> monthMap = new LinkedHashMap<>();
         for (Image images : imagesList) {
             if (images.getUrl() == null) {
                 continue;
@@ -114,7 +111,7 @@ public class Main {
         ObjectMapper mapper =  new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
         // 读取历史数据
-        List<Image> bingList = mapper.readValue(new File("bing-wallpaper.json"), new TypeReference<List<Image>>() {});
+        List<Image> bingList = mapper.readValue(new File("bing-wallpaper.json"), new TypeReference<>() {});
         bingList.add(day,getDate());
         // 去重复
         bingList = bingList.stream().distinct().collect(Collectors.toList());
@@ -132,7 +129,7 @@ public class Main {
         JsonNode json = mapper.readTree(data);
         JsonNode image = json.get("images").get(0);
         String enddate = image.get("enddate").asText();
-        System.out.println(enddate);
+        System.out.println("new date: "+enddate);
         LocalDate date = LocalDate.parse(enddate, DateTimeFormatter.ofPattern("yyyyMMdd"));
         String url = image.get("url").asText();
         String fullUrl=BING_URL+url.substring(0,url.indexOf("&"));
