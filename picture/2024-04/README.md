@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-04)
-![](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg&w=1000)Today: [勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg&w=1000)Today: [日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)|
 ### 历史归档：
 [2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |[2023-09](/picture/2023-09/) |
 [2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |[2023-05](/picture/2023-05/) |[2023-04](/picture/2023-04/) |[2023-03](/picture/2023-03/) |[2023-02](/picture/2023-02/) |[2023-01](/picture/2023-01/) |
