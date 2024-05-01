@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-05)
-![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&w=1000)Today: [夏威夷花环 (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&w=1000)Today: [蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-02 [download 4k](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)|
 ### 历史归档：
 [2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |
 [2023-09](/picture/2023-09/) |[2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |[2023-05](/picture/2023-05/) |[2023-04](/picture/2023-04/) |[2023-03](/picture/2023-03/) |[2023-02](/picture/2023-02/) |
