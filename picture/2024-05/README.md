@@ -1,8 +1,9 @@
 ## Bing Wallpaper (2024-05)
-![](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg&w=1000)Today: [春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州 (© Charles Harker/Getty Images)](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg&w=1000)Today: [斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰 (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-03 [download 4k](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-02 [download 4k](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-04 [download 4k](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-03 [download 4k](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-02 [download 4k](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-05-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)|
 ### 历史归档：
 [2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |
 [2023-09](/picture/2023-09/) |[2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |[2023-05](/picture/2023-05/) |[2023-04](/picture/2023-04/) |[2023-03](/picture/2023-03/) |[2023-02](/picture/2023-02/) |
