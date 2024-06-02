@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-06)
-![](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg&w=1000)Today: [普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg&w=1000)Today: [哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-06-03 [download 4k](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg)|
 ### 历史归档：
 [2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |
 [2023-10](/picture/2023-10/) |[2023-09](/picture/2023-09/) |[2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |[2023-05](/picture/2023-05/) |[2023-04](/picture/2023-04/) |[2023-03](/picture/2023-03/) |
