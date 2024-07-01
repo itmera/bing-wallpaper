@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-07)
-![](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg&w=1000)Today: [菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg&w=1000)Today: [意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙 (© Moses Palermo/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)|
 ### 历史归档：
 [2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |
 [2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |[2023-09](/picture/2023-09/) |[2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |[2023-05](/picture/2023-05/) |[2023-04](/picture/2023-04/) |
