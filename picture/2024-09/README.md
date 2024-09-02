@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-09)
-![](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&w=1000)Today: [红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg&w=1000)Today: [迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-09-02 [download 4k](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-09-02 [download 4k](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg)|
 ### 历史归档：
 [2024-09](/picture/2024-09/) |[2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |
 [2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |[2023-09](/picture/2023-09/) |[2023-08](/picture/2023-08/) |[2023-07](/picture/2023-07/) |[2023-06](/picture/2023-06/) |
