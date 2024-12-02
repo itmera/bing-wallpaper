@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2024-12)
-![](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&w=1000)Today: [雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg&w=1000)Today: [Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-12-02 [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-12-03 [download 4k](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-12-02 [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg)|
 ### 历史归档：
 [2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |[2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |
 [2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |[2023-12](/picture/2023-12/) |[2023-11](/picture/2023-11/) |[2023-10](/picture/2023-10/) |[2023-09](/picture/2023-09/) |
