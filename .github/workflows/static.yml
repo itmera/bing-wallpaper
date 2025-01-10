@@ -32,7 +32,6 @@ jobs:
   build:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-22.04
 
     steps:
@@ -60,7 +59,7 @@ jobs:
           git commit -m "update files by maven"
           git push origin main
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs/
           
