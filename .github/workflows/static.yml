@@ -59,12 +59,7 @@ jobs:
           git add docs/*
           git commit -m "update files by maven"
           git push origin main
-
-      # - name: Upload artifact
-      #   uses: actions/upload-artifact@v4
-      #   with:
-      #     name: github-pages
-      #     path: docs/
+          
   deploy:
     needs: build
     runs-on: ubuntu-22.04
@@ -81,7 +76,6 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
+        branch: main
         folder: ./docs
 
