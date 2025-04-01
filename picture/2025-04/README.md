@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2025-04)
-![](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&w=1000)Today: [树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&w=1000)Today: [凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-02 [download 4k](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)|
 ### 历史归档：
 [2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |
 [2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |
