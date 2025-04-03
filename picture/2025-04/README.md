@@ -1,8 +1,9 @@
 ## Bing Wallpaper (2025-04)
-![](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&w=1000)Today: [沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国 (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg&w=1000)Today: [苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-03 [download 4k](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-02 [download 4k](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-04 [download 4k](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-03 [download 4k](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-02 [download 4k](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)|
 ### 历史归档：
 [2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |
 [2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |[2024-02](/picture/2024-02/) |[2024-01](/picture/2024-01/) |
