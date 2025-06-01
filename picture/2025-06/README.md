@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2025-06)
-![](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&w=1000)Today: [格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg&w=1000)Today: [一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-06-02 [download 4k](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)|
 ### 历史归档：
 [2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |
 [2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |[2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |[2024-06](/picture/2024-06/) |[2024-05](/picture/2024-05/) |[2024-04](/picture/2024-04/) |[2024-03](/picture/2024-03/) |
