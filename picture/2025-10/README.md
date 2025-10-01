@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2025-10)
-![](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg&w=1000)Today: [克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg&w=1000)Today: [蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)](https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg)|
 ### 历史归档：
 [2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |
 [2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |[2024-08](/picture/2024-08/) |[2024-07](/picture/2024-07/) |
