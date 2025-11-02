@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2025-11)
-![](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&w=1000)Today: [岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg&w=1000)Today: [在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-03 [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg)|
 ### 历史归档：
 [2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |
 [2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |[2024-08](/picture/2024-08/) |
