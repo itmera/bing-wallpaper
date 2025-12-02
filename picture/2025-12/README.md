@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2025-12)
-![](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&w=1000)Today: [柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&w=1000)Today: [日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-02 [download 4k](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-03 [download 4k](https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-02 [download 4k](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)|
 ### 历史归档：
 [2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |
 [2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |[2024-11](/picture/2024-11/) |[2024-10](/picture/2024-10/) |[2024-09](/picture/2024-09/) |
