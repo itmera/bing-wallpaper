@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-03)
-![](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&w=1000)Today: [伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&w=1000)Today: [苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-03-02 [download 4k](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg)|
 ### 历史归档：
 [2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |
 [2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |[2024-12](/picture/2024-12/) |
