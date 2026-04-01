@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-04)
-![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&w=1000)Today: [粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg&w=1000)Today: [野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)|
 ### 历史归档：
 [2026-04](/picture/2026-04/) |[2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |
 [2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |[2025-01](/picture/2025-01/) |
