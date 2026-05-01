@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-05)
-![](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&w=1000)Today: [中国的长城 (© aphotostory/Getty Images)](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg&w=1000)Today: [阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)|
 ### 历史归档：
 [2026-05](/picture/2026-05/) |[2026-04](/picture/2026-04/) |[2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |
 [2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |[2025-03](/picture/2025-03/) |[2025-02](/picture/2025-02/) |
