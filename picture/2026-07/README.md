@@ -1,8 +1,9 @@
 ## Bing Wallpaper (2026-07)
-![](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&w=1000)Today: [小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&w=1000)Today: [凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-04 [download 4k](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg)|
 ### 历史归档：
 [2026-07](/picture/2026-07/) |[2026-06](/picture/2026-06/) |[2026-05](/picture/2026-05/) |[2026-04](/picture/2026-04/) |[2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |
 [2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |[2025-04](/picture/2025-04/) |
