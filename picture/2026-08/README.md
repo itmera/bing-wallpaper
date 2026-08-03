@@ -1,8 +1,9 @@
 ## Bing Wallpaper (2026-08)
-![](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&w=1000)Today: [马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg&w=1000)Today: [佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-03 [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-04 [download 4k](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-03 [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg)|
 ### 历史归档：
 [2026-08](/picture/2026-08/) |[2026-07](/picture/2026-07/) |[2026-06](/picture/2026-06/) |[2026-05](/picture/2026-05/) |[2026-04](/picture/2026-04/) |[2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |
 [2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |[2025-06](/picture/2025-06/) |[2025-05](/picture/2025-05/) |
