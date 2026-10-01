@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-10)
-![](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&w=1000)Today: [奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&w=1000)Today: [查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg)|
 ### 历史归档：
 [2026-10](/picture/2026-10/) |[2026-09](/picture/2026-09/) |[2026-08](/picture/2026-08/) |[2026-07](/picture/2026-07/) |[2026-06](/picture/2026-06/) |[2026-05](/picture/2026-05/) |[2026-04](/picture/2026-04/) |[2026-03](/picture/2026-03/) |
 [2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |[2025-07](/picture/2025-07/) |
