@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-11)
-![](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&w=1000)Today: [布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&w=1000)Today: [五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-11-04 [download 4k](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg)|
 ### 历史归档：
 [2026-11](/picture/2026-11/) |[2026-10](/picture/2026-10/) |[2026-09](/picture/2026-09/) |[2026-08](/picture/2026-08/) |[2026-07](/picture/2026-07/) |[2026-06](/picture/2026-06/) |[2026-05](/picture/2026-05/) |[2026-04](/picture/2026-04/) |
 [2026-03](/picture/2026-03/) |[2026-02](/picture/2026-02/) |[2026-01](/picture/2026-01/) |[2025-12](/picture/2025-12/) |[2025-11](/picture/2025-11/) |[2025-10](/picture/2025-10/) |[2025-09](/picture/2025-09/) |[2025-08](/picture/2025-08/) |
